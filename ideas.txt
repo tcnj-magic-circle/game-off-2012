@@ -1,0 +1,21 @@
+- use symbols!
+- symbols stand for actions
+- every agent holds a sequence of symbols, which together make up their character
+- symbols can be linked to colors? (which means each agent has a unique color?)
+
+
+----------------------
+ALTERNATELY
+
+parsed, interpreted words define character
+"confused-run" ---> "stumble"
+
+verbs
+adjectives
+
+----------------------
+ALTERNATELY
+
+hand-drawn images define character
+
+
